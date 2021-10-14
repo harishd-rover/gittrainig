@@ -1,1 +1,2 @@
 New lines added. in Remote repository
+new line added in local directory
